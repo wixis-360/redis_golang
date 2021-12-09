@@ -1,0 +1,10 @@
+1st Step : download redis version 3.2.100.zip =>
+            link( https://github.com/microsoftarchive/redis/releases/tag/win-3.2.100)
+2nd Step : create new folder "Redis" in your windows/C partition
+3rd Step : extract the downloaded redis zip files in to your Redis folder
+4th Step : run redis-server.exe by clicking inside your Redis folder
+5th Step : write those go codes inside go files
+6th Step : go run main.go
+
+// {"name":"User","age":22,"address":"Galle"}
+
